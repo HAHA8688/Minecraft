@@ -19,7 +19,7 @@
 - **Minecraft** 1.21.1 NeoForge
 - **CC:Tweaked**
 - **Create** 及 **Create: Aeronautics**
-- 需存摆放以下外设：
+- 需摆放以下外设：
   - `Create_RotationSpeedController` —— 转速控制器
   - `swivel_bearing` —— 旋转轴承
   - `linked_typewriter` —— 红石打字机
