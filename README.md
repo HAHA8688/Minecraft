@@ -14,6 +14,13 @@
 
 ---
 
+## 视频链接：
+【[机械动力：航空学] 基于CC：T的模拟轴承控制器】 
+
+https://www.bilibili.com/video/BV1ds9YBXEbh/?share_source=copy_web&vd_source=44911cf6325356233e85db26f07d66e6
+
+---
+
 ## 环境要求
 
 - **Minecraft** 1.21.1 NeoForge
@@ -68,7 +75,3 @@ dt = 0.05,          -- 控制周期（秒）
 max_i = 1, min_i = -1,      -- 积分限幅
 max_output = 1, min_output = -1,  -- 输出限幅（转速范围）
 alpha_d = 0.8       -- 微分项低通滤波系数（0~1，越小滤波越强）
-
-## 视频链接：
-【[机械动力：航空学] 基于CC：T的模拟轴承控制器】 
-https://www.bilibili.com/video/BV1ds9YBXEbh/?share_source=copy_web&vd_source=44911cf6325356233e85db26f07d66e6
